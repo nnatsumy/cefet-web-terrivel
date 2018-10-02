@@ -1,0 +1,10 @@
+label{
+	display: table-row;
+   line-height: 2em;
+	border: 3px double silver;
+}
+
+body{
+	border: 3px double silver;
+   max-width: 400px;
+}
